@@ -1,0 +1,33 @@
+{
+  "node": "SUNDONEcindy/fictional-guacamole",
+  "slot": "10",
+  "probe_rounds": 1,
+  "timestamp": "2026-09-12T09:52:33Z",
+  "results": [
+    {"pid":"1045285536976","round":1,"http_code":302,"elapsed_s":0.570760,"redirects":0,"up":true}
+    ,
+    {"pid":"1051443785486","round":1,"http_code":302,"elapsed_s":0.200129,"redirects":0,"up":true}
+    ,
+    {"pid":"1055272192360","round":1,"http_code":302,"elapsed_s":0.209584,"redirects":0,"up":true}
+    ,
+    {"pid":"1056343383874","round":1,"http_code":302,"elapsed_s":0.209258,"redirects":0,"up":true}
+    ,
+    {"pid":"1057028184538","round":1,"http_code":302,"elapsed_s":0.196673,"redirects":0,"up":true}
+    ,
+    {"pid":"1059036808911","round":1,"http_code":302,"elapsed_s":0.189999,"redirects":0,"up":true}
+    ,
+    {"pid":"1059798887756","round":1,"http_code":302,"elapsed_s":0.210564,"redirects":0,"up":true}
+    ,
+    {"pid":"1060214802605","round":1,"http_code":302,"elapsed_s":0.216117,"redirects":0,"up":true}
+    ,
+    {"pid":"1060285671386","round":1,"http_code":302,"elapsed_s":0.208952,"redirects":0,"up":true}
+    ,
+    {"pid":"1061217153671","round":1,"http_code":302,"elapsed_s":0.196467,"redirects":0,"up":true}
+    ,
+    {"pid":"1061810629923","round":1,"http_code":302,"elapsed_s":0.190738,"redirects":0,"up":true}
+    ,
+    {"pid":"1067381684786","round":1,"http_code":302,"elapsed_s":0.195951,"redirects":0,"up":true}
+    ,
+    {"pid":"1071695794375","round":1,"http_code":302,"elapsed_s":0.190006,"redirects":0,"up":true}
+  ]
+}
